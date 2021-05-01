@@ -1,1 +1,1 @@
-web: gunicorn Heroku-Demo/app.ipynb:app
+web: gunicorn /Heroku-Demo/app.ipynb:app
