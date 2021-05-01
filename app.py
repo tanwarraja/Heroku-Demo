@@ -29,7 +29,7 @@ def predict():
     return render_template('index.html', prediction_text='Employee Salary should be $ {}'.format(output))
 
 
-if __name__ == "__main__":
+if __name__ == "main":
     app.run(debug=True)
 
 
