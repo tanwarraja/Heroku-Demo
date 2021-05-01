@@ -1,1 +1,1 @@
-web: gunicorn app:app
+web: gunicorn app:Heroku-Demo/app.ipynb
